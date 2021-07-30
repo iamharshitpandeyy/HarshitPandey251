@@ -90,9 +90,9 @@
 </p>
 
 <h3> ⚡ GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HarshitPandey251&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919%22%20alt=%22HarshitPandey251%22" /></p>
+<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshitPandey251&layout=compact&theme=radical" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshitPandey251&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919&locale=en" alt="HarshitPandey251" height="195px"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshitPandey251&show_icons=true&theme=radical"/></p>
 <br><br><br>
 
 <h3> ⚙️  GitHub Analytics </h3>
