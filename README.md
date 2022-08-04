@@ -14,8 +14,8 @@
 <h3> 🧑 About me </h3>
 ### Pursuing BTech CSE - 2022 Batch @ Indore Institute of Science and Technology, Indore
  - 🔭 I’m currently working Development
- - 🌱 I’m currently learning MERN Stack
- - 💬 Ask me about ReactJS, NodeJS and JavaScript
+ - 🌱 I’m currently learning MERN Stnextack
+ - 💬 Ask me about ReactJS, NodeJS, ExpressJS, NextJS, VueJS, ReactNative, and JavaScript
  - 📫 How to reach me: harshitpandey@gmail.com
  - 😄 Pronouns: He/Him
 
