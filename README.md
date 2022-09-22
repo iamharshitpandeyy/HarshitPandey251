@@ -4,8 +4,8 @@
 <h3 align="center">I'm a Programmer, Developer and Open Source enthusiast</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/harshit-pandey-7ab915176"><img src="https://img.shields.io/badge/-harshit%20Pandey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://HarshitPandey251.github.io/" target="_blank"><img src="https://img.shields.io/website?label=HarshitPandey251.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2FHaeshitPandey251.github.io" alt="HarshitPandey251.github.io" /></a>
+<a href="https://www.linkedin.com/in/iamharshitpandeyy"><img src="https://img.shields.io/badge/-harshit%20Pandey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://iamharshitpandeyy.github.io/" target="_blank"><img src="https://img.shields.io/website?label=iamharshitpandeyy.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fiamharshitpandeyy.github.io" alt="iamharshitpandeyy.github.io" /></a>
 </p>
 
 <hr>
@@ -90,10 +90,10 @@
 </p>
 
 <h3> ⚡ GitHub Stats
-<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HarshitPandey251&layout=compact&theme=radical" /></p>
+<p><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamharshitpandeyy&layout=compact&theme=radical" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshitPandey251&show_icons=true&theme=radical"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamharshitpandeyy&show_icons=true&theme=radical"/></p>
 <br><br><br>
 
 <h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=HarshitPandey251&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=iamharshitpandeyy&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
