@@ -5,7 +5,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/iamharshitpandeyy"><img src="https://img.shields.io/badge/-harshit%20Pandey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://iamharshitpandeyy.github.io/" target="_blank"><img src="https://img.shields.io/website?label=iamharshitpandeyy.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fiamharshitpandeyy.github.io" alt="iamharshitpandeyy.github.io" /></a>
+<a href="https://harshitpandey.in/" target="_blank"><img src="https://img.shields.io/website?label=harshitpandey.in&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharshitpandey.in" alt="https://harshitpandey.in/" /></a>
 </p>
 
 <hr>
